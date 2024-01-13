@@ -1,8 +1,8 @@
-## INTRODUCTION
-The objective of this project IS to redesign the autonomous car as well as make a left-handed glove that can help the user control the car’s motion. The glove can be used to control the direction of the car as well as the current state of the
+## Aim of project
+The objective of this project is to redesign the autonomous car as well as make a left-handed glove that can help the user control the car’s motion. The glove can be used to control the direction of the car as well as the current state of the
 car(stationary/motion) but not change the speed of the car while in motion. The car also has an extra fun feature which allows the user control the movements of the Raspberry camera wirelessly from your laptop/phone. 
 
-## KEY SUBSYSTEMS - HARDWARE
+## Key Subsystems - Hardware
 1. Car: H-Bridge
      Power Board:
      ESP32 Board:
