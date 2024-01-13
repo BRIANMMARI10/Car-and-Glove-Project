@@ -18,4 +18,5 @@ Python files that enable the user to move the Raspberry camera from a laptop/pho
 Arduino files that contains code for controlling the movement of the car depending on the state of the glove.
 
 ## link to the full-details of each component
+https://github.com/BRIANMMARI10/Car-and-Glove-Project/blob/44419830976d3d623cc1e700185d7eb9c450751a/FINAL%20PROJECT%20REPORT.pdf
 
